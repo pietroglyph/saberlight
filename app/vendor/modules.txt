@@ -1,0 +1,40 @@
+# github.com/alecthomas/assert v0.0.0-20170929043011-405dbfeb8e38
+## explicit
+# github.com/alecthomas/colour v0.1.0
+## explicit
+# github.com/alecthomas/kingpin v2.0.15+incompatible
+## explicit
+github.com/alecthomas/kingpin
+# github.com/alecthomas/repr v0.0.0-20210801044451-80ca428c5142
+## explicit; go 1.15
+# github.com/alecthomas/template v0.0.0-20151201005709-14fd436dd20c
+## explicit
+github.com/alecthomas/template
+github.com/alecthomas/template/parse
+# github.com/alecthomas/units v0.0.0-20151022065526-2efee857e7cf
+## explicit
+github.com/alecthomas/units
+# github.com/davecgh/go-spew v1.1.1
+## explicit
+# github.com/madhead/saberlight v0.0.0-20180918011219-d397b1db12c6
+## explicit
+github.com/madhead/saberlight/app/cli
+github.com/madhead/saberlight/app/commands
+github.com/madhead/saberlight/app/util
+github.com/madhead/saberlight/app/util/log
+# github.com/mattn/go-isatty v0.0.14
+## explicit; go 1.12
+# github.com/paypal/gatt v0.0.0-20151011220935-4ae819d591cf
+## explicit
+github.com/paypal/gatt
+github.com/paypal/gatt/linux
+github.com/paypal/gatt/linux/cmd
+github.com/paypal/gatt/linux/evt
+github.com/paypal/gatt/linux/gioctl
+github.com/paypal/gatt/linux/socket
+github.com/paypal/gatt/linux/util
+github.com/paypal/gatt/xpc
+# github.com/sergi/go-diff v1.2.0
+## explicit; go 1.12
+# github.com/stretchr/testify v1.7.0
+## explicit; go 1.13
